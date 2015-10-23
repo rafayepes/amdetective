@@ -1,6 +1,6 @@
 {
-  "name": "amdetective",
-  "version": "0.0.2",
+  "name": "amdetective-badoo",
+  "version": "0.1.0",
   "description": "Like node-detective, but for AMD/r.js files. Finds all calls to `require()` in AMD modules by walking the AST.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mixu/amdetective.git"
+    "url": "git://github.com/rafayepes/amdetective-badoo.git"
   },
   "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
   "license": "BSD",
